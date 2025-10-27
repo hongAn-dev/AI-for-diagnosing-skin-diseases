@@ -1,2 +1,1 @@
-# AI-for-diagnosing-skin-diseases
-Skin-AI-TTCS/ │ ├── 📂 data/ │ └── HAM10000/ # Thư mục chứa dữ liệu ảnh (KHÔNG push lên GitHub) │ ├── 📂 notebooks/ │ ├── 1_Data_Exploration.ipynb # (Data Lead) Phân tích, trực quan hóa dữ liệu │ └── 2_Model_Training.ipynb # (Model Lead) Huấn luyện, fine-tuning mô hình │ ├── 📂 saved_model/ │ └── skin_model_v1.h5 # File mô hình đã huấn luyện │ ├── 📜 app.py # (App Lead) File code Streamlit để chạy demo ├── 📜 requirements.txt # Các thư viện Python cần thiết └── 📜 README.md # File bạn đang đọc
+Skin-AI: PoC Phát hiện Bệnh Da liễu (TTCS) 
