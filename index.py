@@ -170,4 +170,5 @@ plt.show()
 
 
 #Chỉ ra nhãn có xác suất cao nhất
-np.argmax(predictions_single[0])
+
+np.argmax(predictions_single[0]) 
